@@ -1,0 +1,6 @@
+{
+  "name": "CYBERNEWS AI",
+  "description": "AI-Powered Fake News, Deepfake & Digital Trust Verification Platform. Verify Before You Trust.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
